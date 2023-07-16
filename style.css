@@ -8,10 +8,6 @@
     width: 33%;
     float: left;    
 }
-#div2{
-    width: 67%;
-    float: right;
-}
 .container{
     width: 100%;
     min-height: 100vh;
@@ -20,13 +16,6 @@
     background-image: url(bubb.png);
     background-repeat: no-repeat;
     background-size: cover;
-}
-.vid video{
-    align-self: right;
-    max-width: 300px;
-    margin-right: 0px;
-    margin-left: 670px;
-    margin-top: 50px;
 }
 .image p{
     font-weight: bold;
